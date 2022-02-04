@@ -103,10 +103,10 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'chatappdatabase',
+        'NAME': 'chatapp',
         'USER': 'admin',
-        'PASSWORD': 'captain123',
-        'HOST': 'chatappdatabase.clwhrziviyt4.us-east-2.rds.amazonaws.com',
+        'PASSWORD': 'admin123',
+        'HOST': 'terraform-20220131142815446600000007.cnuddw0eyqax.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
