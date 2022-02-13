@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatapp',
         'USER': 'admin',
         'PASSWORD': 'admin123',
-        'HOST': 'terraform-20220131142815446600000007.cnuddw0eyqax.ap-south-1.rds.amazonaws.com',
+        'HOST': 'terraform-20220209094118315900000007.cnuddw0eyqax.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
